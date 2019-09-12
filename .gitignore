@@ -125,3 +125,4 @@ dmypy.json
 
 # mblog specific files
 app.db
+logs/
